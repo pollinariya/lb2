@@ -1,0 +1,5 @@
+﻿  Printer.cpp
+H:\ProgrammesVisualStudio\Projects\Printer\Printer\Printer.cpp(53,33): warning C4018: >: несоответствие типов со знаком и без знака
+H:\ProgrammesVisualStudio\Projects\Printer\Printer\Printer.cpp(55,63): warning C4018: <: несоответствие типов со знаком и без знака
+H:\ProgrammesVisualStudio\Projects\Printer\Printer\Printer.cpp(61,43): warning C4018: <: несоответствие типов со знаком и без знака
+  Printer.vcxproj -> H:\ProgrammesVisualStudio\Projects\Printer\Debug\Printer.exe
